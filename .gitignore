@@ -1,0 +1,9 @@
+**/*.cache/                    # Vivado cache
+**/*.hw/                       # Hardware definition
+**/*.ip_user_files/            # IP user files
+**/*.runs/                     # Run directories
+**/*.sim/                      # Simulation directories
+**/*.gen/                      # Generated sources
+**/*.srcs/sim_1/imports/       # Imported simulation files
+
+.vscode/
