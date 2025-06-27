@@ -5,5 +5,7 @@
 **/*.sim/                      # Simulation directories
 **/*.gen/                      # Generated sources
 **/*.srcs/sim_1/imports/       # Imported simulation files
-
+/ChromeDinoGame.cache
+/ChromeDinoGame.hw
+.ChromeDinoGame.xpr
 .vscode/
